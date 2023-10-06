@@ -43,6 +43,8 @@ Para aplicar um filtro de suavização (por exemplo, filtro Gaussiano):
 python filter_script.py --input Sinais/imagem.jpg --output output_suavizacao.jpg --filter suavizacao
 
 ```
+![Texto alternativo](https://i.ibb.co/Xk8LG6J/asd.png)
+
 Certifique-se de substituir Sinais/imagem.jpg pelo caminho da imagem que você deseja processar e output_bordas.jpg ou output_suavizacao.jpg pelo nome desejado para o arquivo de saída.
 
 ## 🛠️ Filtros suportados
